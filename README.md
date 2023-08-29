@@ -1,1 +1,1 @@
-# sistem-informasi-akademik
+# Sistem Informasi Akademik
